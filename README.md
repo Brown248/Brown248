@@ -17,10 +17,10 @@
 ## 💻 Tech Stack
 | Category | Tools / Languages |
 |-----------|------------------|
-| **Languages** | Python, JavaScript, SQL |
+| **Languages** |  Python , HTML , SQL , JavaScript , CSS |
 | **Frameworks** | FastAPI, Flask, React |
-| **Data Tools** | Pandas, NumPy, Matplotlib, scikit-learn |
-| **Others** | Git, GitHub, VS Code, Postman, Docker |
+| **Data Tools** | FastAPI , Pandas , Matplotlib & Seaborn , Tailwind CSS , React , Power BI |
+| **Others** | GitHub, VS Code, Postman, Docker |
 
 ---
 
