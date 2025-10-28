@@ -40,9 +40,9 @@
 ---
 
 ## 💼 Contact Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📧 Email: [suwat.you248@gmail.com](mailto:suwat.you248@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐍 GitHub: [github.com/uu248](https://github.com/uu248)
+- 🐍 GitHub: [github.com/Brown248](https://github.com/Brown248)
 
 ---
 
