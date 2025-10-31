@@ -23,8 +23,8 @@
 ## 🧩 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [DormAdmin](https://github.com/Brown248/DormAdmin) | ระบบจัดการหอพัก | HTML , CSS , JS|
-| [Netflix Insights](https://github.com/Brown248/Netflix-Insights) | วิเคราะห์ dataset ของ Netflix | Python , Pandas , numpy , matplotlib , seaborn , plotly|
+| [Dorm - Admin](https://github.com/Brown248/DormAdmin) | ระบบจัดการหอพัก | HTML , CSS , JS|
+| [Netflix - Insights](https://github.com/Brown248/Netflix-Insights) | วิเคราะห์ dataset ของ Netflix | Python , Pandas , numpy , matplotlib , seaborn , plotly|
 
 ---
 
