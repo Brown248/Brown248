@@ -3,10 +3,9 @@
 ---
 
 ## 🧠 About Me
-- 🌱 Currently learning: **Python, FastAPI, SQL, React**
-- 💬 Interested in: **Data Analytics, Web Development**
-- 📘 กำลังฝึกฝนการเขียนโค้ดและการทำงานร่วมกับทีมในโปรเจกต์จริง
-- ⚙️ Always curious and eager to learn new technologies
+- Currently learning: **Python, FastAPI, SQL, React**
+- กำลังฝึกฝนการเขียนโค้ดและการทำงานร่วมกับทีมในโปรเจกต์จริง
+- Always curious and eager to learn new technologies
 
 ---
 
@@ -29,8 +28,8 @@
 ---
 
 ## 💼 Contact Me
-- 📧 Email: [suwat.you248@gmail.com](mailto:suwat.you248@gmail.com)  
-- 🐍 GitHub: [github.com/Brown248](https://github.com/Brown248)
+- Email: [suwat.you248@gmail.com](mailto:suwat.you248@gmail.com)  
+- GitHub: [github.com/Brown248](https://github.com/Brown248)
 
 ---
 
