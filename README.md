@@ -23,6 +23,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Dorm - Admin](https://github.com/Brown248/DormAdmin) | ระบบจัดการหอพัก | HTML , CSS , JS|
+| [Random-Prize-Numbers](https://github.com/Brown248/Random-Prize-Numbers.git) | Lucky Draw - เว็บสุ่มรางวัล | HTML , CSS , JS|
 | [Netflix - Insights](https://github.com/Brown248/Netflix-Insights) | วิเคราะห์ dataset ของ Netflix | Python , Pandas , numpy , matplotlib , seaborn , plotly|
 
 ---
