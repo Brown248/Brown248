@@ -2,13 +2,6 @@
 
 ---
 
-## 🧠 About Me
-- Currently learning: **Python, FastAPI, SQL, React**
-- กำลังฝึกฝนการเขียนโค้ดและการทำงานร่วมกับทีมในโปรเจกต์จริง
-- Always curious and eager to learn new technologies
-
----
-
 ## 💻 Tech Stack
 | Category | Tools / Languages |
 |-----------|------------------|
