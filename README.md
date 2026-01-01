@@ -16,8 +16,10 @@
 | Project | Description |
 |----------|--------------|
 | [Dorm - Admin](https://github.com/Brown248/DormAdmin) | ระบบจัดการหอพัก 
-| [Random-Prize-Numbers](https://github.com/Brown248/Random-Prize-Numbers.git) | Lucky Draw - เว็บสุ่มรางวัล |
+| [Working-time-recording-system](https://github.com/Brown248/Working-time-recording-system.git) | เช็คเวลาเข้าออกทำงาน |
 | [Netflix - Insights](https://github.com/Brown248/Netflix-Insights) | วิเคราะห์ dataset ของ Netflix | 
+| [Worddee.ai](https://github.com/Brown248/Worddee_ai_Frontend_Backend.git) | เว็บตรวจภาษาด้วย AI | 
+
 
 ---
 
