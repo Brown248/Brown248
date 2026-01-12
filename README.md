@@ -5,10 +5,11 @@
 ## 💻 Tech Stack
 | Category | Tools / Languages |
 |-----------|------------------|
-| **Languages** |  Python , HTML , SQL , JavaScript , CSS |
-| **Frameworks** | FastAPI, React |
-| **Data Tools** | FastAPI , Pandas , Matplotlib & Seaborn , Tailwind CSS , React , Power BI |
-| **Others** | GitHub, VS Code, Docker |
+| **Languages** |  Python, SQL, HTML, CSS, JavaScript |
+| **Frameworks** | FastAPI, React, Tailwind CSS |
+| **Databases** | MySQL |
+| **Data Tools** | Pandas, Matplotlib, Seaborn, Power BI |
+| **Others** | GitHub, VS Code, Docker, n8n |
 
 ---
 
@@ -24,7 +25,7 @@
 ---
 
 ## 💼 Contact Me
-- Email: [suwat.you248@gmail.com](mailto:suwat.you248@gmail.com)  
+- Email: [suwatkaen248@hotmail.com](mailto:suwatkaen248@hotmail.com)  
 - GitHub: [github.com/Brown248](https://github.com/Brown248)
 
 ---
