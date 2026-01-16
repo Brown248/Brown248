@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm U! 👋
-### 👨‍💻 Data Engineer | Web Developer | Data Analyst
+### 👨‍💻 Data Engineer | Data Analyst | Web Developer
 
 <br/>
 
