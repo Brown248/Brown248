@@ -3,8 +3,6 @@
 # Hi there, I'm U! 👋
 ### 👨‍💻 Data Engineer | Web Developer | Data Analyst
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZmZGRnMzQ0ZWFkNW84aDR3M3F6aXF3NjF6Z3V6Z2V6Z3V6Z2V6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpLd2NGvTZoyI/giphy.gif" width="100%" style="max-width: 600px;" />
-
 <br/>
 
 > _"Bridging the gap between Application Development and Data Engineering."_
