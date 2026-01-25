@@ -28,7 +28,9 @@
 | Project | Details |
 | :--- | :--- |
 | **[Sales Data ETL Pipeline](https://github.com/Brown248/Sales-Data-ETL-Pipeline-for-Business-Insights)** | 🔄 **ETL System** <br> ระบบดึงและทำความสะอาดข้อมูลยอดขาย (Superstore) เพื่อคำนวณกำไร/ต้นทุน |
+| **[fraud-detection-data-pipeline]([https://github.com/Brown248/Sales-Data-ETL-Pipeline-for-Business-Insights](https://github.com/Brown248/Fraud-Detection-Data-Pipeline))** | 🔄 **Data Pipeline** <br> ระบบวิเคราะห์ธุรกรรมบัตรเครดิตเพื่อตรวจจับการโกง โดยครอบคลุมตั้งแต่การทำ Data Quality, Feature Engineering จนถึงการจัดเก็บใน SQL Database |
 | **[Netflix Insights](https://github.com/Brown248/Netflix-Insights)** | 📈 **Data Analysis** <br> วิเคราะห์เจาะลึก (EDA) และหาเทรนด์ที่น่าสนใจจากข้อมูล Netflix |
+
 
 ### 💻 Web Development & Systems
 | Project | Details |
