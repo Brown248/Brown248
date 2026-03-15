@@ -70,10 +70,12 @@
 #### 🌐 Web Development & Systems
 | Project | Description |
 | :--- | :--- |
+| **[☁️ Cloud REST API](https://github.com/Brown248/cloud-api)** | REST API สำหรับเก็บข้อมูล Temperature, Sales และ Data สร้างด้วย FastAPI + PostgreSQL Deploy บน Render Cloud |
 | **[🤖 Worddee.ai](https://github.com/Brown248/Worddee_ai_Frontend_Backend.git)** | เว็บแอปพลิเคชัน AI ตรวจภาษาและไวยากรณ์อัตโนมัติ |
 | **[🏢 Dorm Admin](https://github.com/Brown248/DormAdmin)** | ระบบบริหารจัดการหอพัก สำหรับผู้ดูแลและผู้เช่า |
 | **[⏱️ Working Time Recorder](https://github.com/Brown248/Working-time-recording-system.git)** | ระบบบันทึกเวลาเข้า-ออกงาน (Time Attendance) |
 | **[🎲 Random Prize Numbers](https://github.com/Brown248/Random-Prize-Numbers)** | เว็บแอปสุ่มเลขรางวัลพร้อมลูกเล่น Animation สวยงาม |
+
 
 ---
 
