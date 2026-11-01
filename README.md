@@ -43,44 +43,6 @@
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
-
----
-
-### 🐍 My Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brown248/Brown248/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brown248/Brown248/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brown248/Brown248/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🚀 Featured Projects
-
-#### 💡 Data Engineering & Analytics
-| Project | Description |
-| --- | --- |
-| **[🌐 IoT Cloud Data Pipeline](https://github.com/Brown248/IoT-Cloud-Data-Pipeline)** | Real-time data pipeline รับข้อมูลจาก IoT sensor ผ่าน MQTT → InfluxDB Cloud → Grafana Dashboard (paho-mqtt, InfluxDB, Grafana — Free tier ทั้งหมด) |
-| **[☁️ Cloud REST API](https://github.com/Brown248/cloud-api)** | REST API สำหรับเก็บข้อมูล Temperature, Sales และ Data สร้างด้วย FastAPI + PostgreSQL Deploy บน Render Cloud |
-| **[🔄 Sales Data ETL Pipeline](https://github.com/Brown248/Sales-Data-ETL-Pipeline-for-Business-Insights)** | ระบบดึงและทำความสะอาดข้อมูลยอดขาย (Superstore) เพื่อคำนวณกำไร/ต้นทุน |
-| **[🛡️ Credit Card Fraud Detection](https://github.com/Brown248/fraud-detection-data-pipeline)** | Data Pipeline วิเคราะห์ธุรกรรมบัตรเครดิตเพื่อตรวจจับการโกง (Data Quality, Feature Engineering, SQL) |
-| **[📈 Netflix Insights](https://github.com/Brown248/Netflix-Insights)** | วิเคราะห์เจาะลึก (EDA) และหาเทรนด์ที่น่าสนใจจากข้อมูล Netflix |
-
-
-#### 🌐 Web Development & Systems
-| Project | Description |
-| :--- | :--- |
-| **[🤖 Worddee.ai](https://github.com/Brown248/Worddee_ai_Frontend_Backend.git)** | เว็บแอปพลิเคชัน AI ตรวจภาษาและไวยากรณ์อัตโนมัติ |
-| **[🏢 Dorm Admin](https://github.com/Brown248/DormAdmin)** | ระบบบริหารจัดการหอพัก สำหรับผู้ดูแลและผู้เช่า |
-| **[⏱️ Working Time Recorder](https://github.com/Brown248/Working-time-recording-system.git)** | ระบบบันทึกเวลาเข้า-ออกงาน (Time Attendance) |
-| **[🎲 Random Prize Numbers](https://github.com/Brown248/Random-Prize-Numbers)** | เว็บแอปสุ่มเลขรางวัลพร้อมลูกเล่น Animation สวยงาม |
-
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
   <br>
